@@ -1,0 +1,2 @@
+ git remote add clever git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_23f3972a-04b3-4ae0-abc4-8bbd95e93a8d.git
+ git push -u clever master
